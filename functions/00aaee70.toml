@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.049941Z
+addr = 0xaaee70
+size = 0xb3
+name = "GlobalVarsWarningFunc"
+type = "long long"
+
+[header]
+name = "GlobalVarsWarningFunc"
+addr = 0xaaee70
+type = "long long"
+
+[header.args]

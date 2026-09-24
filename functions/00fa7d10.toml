@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050083Z
+addr = 0xfa7d10
+size = 0xa8
+name = "GameStateAPI_GetPlayerDeaths"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerDeaths"
+addr = 0xfa7d10
+type = "long long"
+
+[header.args]

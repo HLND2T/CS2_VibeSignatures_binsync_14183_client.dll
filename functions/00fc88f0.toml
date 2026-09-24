@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050191Z
+addr = 0xfc88f0
+size = 0x56
+name = "GameStateAPI_IsLocalPlayerPlayingMatch"
+type = "bool"
+
+[header]
+name = "GameStateAPI_IsLocalPlayerPlayingMatch"
+addr = 0xfc88f0
+type = "bool"
+
+[header.args]

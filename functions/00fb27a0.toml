@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:37:06.104391Z
+addr = 0xfb27a0
+size = 0x117
+name = "GameStateAPI_GetTeamLogoImagePath"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetTeamLogoImagePath"
+addr = 0xfb27a0
+type = "char *"
+
+[header.args]

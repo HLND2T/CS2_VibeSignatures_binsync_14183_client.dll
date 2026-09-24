@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050115Z
+addr = 0xfaa7d0
+size = 0x47
+name = "GameStateAPI_GetPlayerVoiceVolume"
+type = "void"
+
+[header]
+name = "GameStateAPI_GetPlayerVoiceVolume"
+addr = 0xfaa7d0
+type = "void"
+
+[header.args]

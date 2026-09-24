@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050197Z
+addr = 0xfc8cd0
+size = 0x9c
+name = "GameStateAPI_IsPlayerAlive"
+type = "long long"
+
+[header]
+name = "GameStateAPI_IsPlayerAlive"
+addr = 0xfc8cd0
+type = "long long"
+
+[header.args]

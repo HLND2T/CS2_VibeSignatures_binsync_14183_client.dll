@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.049993Z
+addr = 0xf794d0
+size = 0x14
+name = "GameStateAPI_AreTeamsPlayingSwitchedSides"
+type = "char"
+
+[header]
+name = "GameStateAPI_AreTeamsPlayingSwitchedSides"
+addr = 0xf794d0
+type = "char"
+
+[header.args]

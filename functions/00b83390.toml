@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.049973Z
+addr = 0xb83390
+size = 0x85
+name = "CAM_Command_CommandHandler"
+type = "long long"
+
+[header]
+name = "CAM_Command_CommandHandler"
+addr = 0xb83390
+type = "long long"
+
+[header.args]

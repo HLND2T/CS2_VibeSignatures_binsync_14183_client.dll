@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:37:04.100179Z
+addr = 0xfa6990
+size = 0x10b
+name = "GameStateAPI_GetPlayerActiveWeaponItemId"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetPlayerActiveWeaponItemId"
+addr = 0xfa6990
+type = "char *"
+
+[header.args]

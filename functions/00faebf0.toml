@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:37:05.840151Z
+addr = 0xfaebf0
+size = 0xa3b
+name = "GameStateAPI_GetScoreDataJSO"
+type = "void"
+
+[header]
+name = "GameStateAPI_GetScoreDataJSO"
+addr = 0xfaebf0
+type = "void"
+
+[header.args]

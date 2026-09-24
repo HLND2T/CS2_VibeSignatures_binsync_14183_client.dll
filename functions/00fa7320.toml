@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050075Z
+addr = 0xfa7320
+size = 0xad
+name = "GameStateAPI_GetPlayerCompetitiveRankType"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetPlayerCompetitiveRankType"
+addr = 0xfa7320
+type = "char *"
+
+[header.args]

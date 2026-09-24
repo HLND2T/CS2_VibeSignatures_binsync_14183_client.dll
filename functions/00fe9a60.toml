@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050226Z
+addr = 0xfe9a60
+size = 0xbf
+name = "GameStateAPI_SetCasterIsHeard"
+type = "long long"
+
+[header]
+name = "GameStateAPI_SetCasterIsHeard"
+addr = 0xfe9a60
+type = "long long"
+
+[header.args]

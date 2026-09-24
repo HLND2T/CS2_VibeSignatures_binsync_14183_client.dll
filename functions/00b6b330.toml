@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:37:01.838162Z
+addr = 0xb6b330
+size = 0x5f0
+name = "CSource2Client_FrameStageNotify"
+type = "void"
+
+[header]
+name = "CSource2Client_FrameStageNotify"
+addr = 0xb6b330
+type = "void"
+
+[header.args]

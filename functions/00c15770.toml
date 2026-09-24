@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.049983Z
+addr = 0xc15770
+size = 0x306
+name = "CViewRender_Render"
+type = "long long"
+
+[header]
+name = "CViewRender_Render"
+addr = 0xc15770
+type = "long long"
+
+[header.args]

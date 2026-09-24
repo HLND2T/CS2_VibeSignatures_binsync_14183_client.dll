@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:37:05.205883Z
+addr = 0xfa8670
+size = 0x1df
+name = "GameStateAPI_GetPlayerPremierRankStatsObject"
+type = "void"
+
+[header]
+name = "GameStateAPI_GetPlayerPremierRankStatsObject"
+addr = 0xfa8670
+type = "void"
+
+[header.args]

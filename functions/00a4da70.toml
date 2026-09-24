@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.049924Z
+addr = 0xa4da70
+size = 0xd0
+name = "CLoopModeGame_OnFrameBoundary"
+type = "double"
+
+[header]
+name = "CLoopModeGame_OnFrameBoundary"
+addr = 0xa4da70
+type = "double"
+
+[header.args]

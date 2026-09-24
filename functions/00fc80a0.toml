@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050182Z
+addr = 0xfc80a0
+size = 0x130
+name = "GameStateAPI_IsFakePlayer"
+type = "char"
+
+[header]
+name = "GameStateAPI_IsFakePlayer"
+addr = 0xfc80a0
+type = "char"
+
+[header.args]

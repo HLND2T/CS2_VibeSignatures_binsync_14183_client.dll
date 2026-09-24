@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050211Z
+addr = 0xfc9470
+size = 0xdb
+name = "GameStateAPI_IsSelectedPlayerMuted"
+type = "char"
+
+[header]
+name = "GameStateAPI_IsSelectedPlayerMuted"
+addr = 0xfc9470
+type = "char"
+
+[header.args]

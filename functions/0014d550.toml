@@ -1,0 +1,10 @@
+last_change = 2026-09-24T17:36:45.049797Z
+addr = 0x14d550
+size = 0x3
+name = "IGameSystem_OnClientPreEntityThink"
+
+[header]
+name = "IGameSystem_OnClientPreEntityThink"
+addr = 0x14d550
+
+[header.args]

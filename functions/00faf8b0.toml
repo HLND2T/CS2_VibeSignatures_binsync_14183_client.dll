@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050149Z
+addr = 0xfaf8b0
+size = 0x77
+name = "GameStateAPI_GetServerName"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetServerName"
+addr = 0xfaf8b0
+type = "char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.049971Z
+addr = 0xb7e340
+size = 0x31
+name = "CSource2Client_SetGlobals"
+type = "void *"
+
+[header]
+name = "CSource2Client_SetGlobals"
+addr = 0xb7e340
+type = "void *"
+
+[header.args]

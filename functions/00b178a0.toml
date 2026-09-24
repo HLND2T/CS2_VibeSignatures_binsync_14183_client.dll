@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:37:01.574224Z
+addr = 0xb178a0
+size = 0x257
+name = "C_BaseEntity_SetInterpolationPhase"
+type = "long long"
+
+[header]
+name = "C_BaseEntity_SetInterpolationPhase"
+addr = 0xb178a0
+type = "long long"
+
+[header.args]

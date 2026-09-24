@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050230Z
+addr = 0xfec020
+size = 0x20
+name = "GameStateAPI_ShouldShowHudElements"
+type = "bool"
+
+[header]
+name = "GameStateAPI_ShouldShowHudElements"
+addr = 0xfec020
+type = "bool"
+
+[header.args]

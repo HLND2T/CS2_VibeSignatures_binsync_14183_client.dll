@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.050016Z
+addr = 0xf8e810
+size = 0xef
+name = "GameStateAPI_GetCharacterDefaultCheerByXuid"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetCharacterDefaultCheerByXuid"
+addr = 0xf8e810
+type = "char *"
+
+[header.args]

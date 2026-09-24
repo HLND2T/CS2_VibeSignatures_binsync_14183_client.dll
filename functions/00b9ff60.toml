@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:45.049976Z
+addr = 0xb9ff60
+size = 0xbe
+name = "C_GameRules_ctor"
+type = "long long"
+
+[header]
+name = "C_GameRules_ctor"
+addr = 0xb9ff60
+type = "long long"
+
+[header.args]

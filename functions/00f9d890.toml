@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:37:03.573995Z
+addr = 0xf9d890
+size = 0x15e
+name = "GameStateAPI_GetLocalPlayerXuid"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetLocalPlayerXuid"
+addr = 0xf9d890
+type = "char *"
+
+[header.args]
